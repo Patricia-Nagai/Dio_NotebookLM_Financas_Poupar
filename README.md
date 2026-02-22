@@ -1,7 +1,5 @@
-# Dio_NotebookLM_Financas_Poupar
-Repositório para a entrega do projeto/desafio utilizando a ferramenta NotebookLM sobre o asunto financeiro introdutório: o planejamento finaneceiro. 
-
-Este material serve de base para estudo de finanças pessoais e o melhor aproveitamento dos recursos financeiros a fim de reduzir custos e aumentar a reserva de capital para novos investimentos.
+# Assunto financeiro introdutório: Planejamento financeiro
+Este material serve de base para estudo de finanças pessoais e o melhor aproveitamento dos recursos financeiros a fim de reduzir despesas e aumentar a reserva de capital para novos investimentos.
 
 ## Fontes Utilizadas
   1. https://www.suno.com.br/guias/planejamento-financeiro-2026/
