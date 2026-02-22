@@ -2,6 +2,7 @@
 Repositório para a entrega do projeto/desafio utilizando a ferramenta NotebookLM sobre o asunto financeiro introdutório: o planejamento finaneceiro. 
 
 Este material serve de base para estudo de finanças pessoais e o melhor aproveitamento dos recursos financeiros a fim de reduzir custos e aumentar a reserva de capital para novos investimentos.
+
 ## Fontes Utilizadas
   1. https://www.suno.com.br/guias/planejamento-financeiro-2026/
   2. https://gmw.investidor.gov.br/wp-content/uploads/2021/03/livro_TOP_planejamento_financeiro_pessoal.pdf
@@ -34,7 +35,7 @@ De acordo com as fontes, existem diversas ferramentas digitais que podem auxilia
 
 As fontes ressaltam que, independentemente da escolha entre um aplicativo, planilha ou até um caderno, o fator mais importante para o sucesso é a constância na análise e a atualização sistemática dos dados. Além disso, o uso da tecnologia é recomendado para programar lembretes, realizar cálculos e observar o efeito dos juros compostos no longo prazo.
 
-## Guia de Estudos: Planejamento e Educação Financeira para 2026
+## Mini Guia de Estudos: Planejamento e Educação Financeira para 2026
 
 Este guia foi elaborado para consolidar o entendimento sobre as estratégias de organização financeira, o cenário econômico projetado para 2026 e as melhores práticas de consumo consciente, com base nos materiais do Grupo Suno e do Idec.
 
