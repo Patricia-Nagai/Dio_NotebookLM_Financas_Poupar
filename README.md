@@ -5,6 +5,7 @@ Este material serve de base para estudo de finanças pessoais e o melhor aprovei
   1. https://www.suno.com.br/guias/planejamento-financeiro-2026/
   2. https://gmw.investidor.gov.br/wp-content/uploads/2021/03/livro_TOP_planejamento_financeiro_pessoal.pdf
   3. https://idec.org.br/system/files/ferramentas/e-book_planejamento_financeiro_descomplicado__0.pdf
+     
 ## Objetivo de Estudo
   Criar uma plano de estudo sobre planejamento financeiro pessoal com dicas úteis para que possa ser aplicável por qualquer pessoa.
 ## Perguntas estratégicas e testes com variações de prompts
